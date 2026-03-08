@@ -1,1 +1,2 @@
 #THE EDGE DESIGN LAYOUT
+'/c/Users/SAFARI OUSMAN/Pictures/Screenshot 2026-03-07 183120.png'
