@@ -12,3 +12,5 @@
     * TASK 2.1: THE TYPOGRATHY --> the greeting is in french and not in english
 
 ![TASK 2.1 CAN THEN LOOK LIKE](assets/task2.1.png)
+
+    * TASK 2.2: STYLE THE INPUT FIRST
