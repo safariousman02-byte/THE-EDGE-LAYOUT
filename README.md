@@ -16,3 +16,8 @@
     * TASK 2.2: STYLE THE INPUT FIRST
 
 ![THE FINAL PART OF TASK 2/TASK2.2](assets/task2.2.png)
+
+## TASK 2.3:
+
+    * STEP 1: FINE TUNNE THE + SYMBOLE
+    
