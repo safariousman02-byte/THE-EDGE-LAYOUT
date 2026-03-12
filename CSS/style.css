@@ -50,6 +50,13 @@ body {
         gap: 6px;
     }
 
+    :root {
+        --blue-1: #0066ff;
+        --blue-2: #3b82f6;
+        --blue-3: #007AFF;
+        --blue-4: #0A7AFF;
+    }
+
     .add-button {
         width: 100%;
         height: 48px;
@@ -61,6 +68,8 @@ body {
         transform: translatey(-1px);
 
         box-shadow: 0 2px 4px rgba(0, 102, 255, 0.3);
+
+        background-color: var(--blue-3);
     }
 
      .add-button:hover {
