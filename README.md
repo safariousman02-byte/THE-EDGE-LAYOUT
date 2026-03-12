@@ -27,3 +27,10 @@
     * STEP 6: A PERFECT SQUARE
 
 ![THE COMPLETE CODE FOR TASK 2.3](assets/TASK%202.3.png)
+
+## TASK 3:
+
+     * COMPLETING THE BODY
+
+![COMPLETING THE BODY](assets/body%20complete.png)
+    
