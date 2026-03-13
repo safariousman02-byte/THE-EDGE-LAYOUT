@@ -326,6 +326,13 @@ body {
 
 }
 
+.icon-item:hover {
+    background-color: #f1f5f9;
+    transform: translateY(-2px);
+    border-color: #e2e8e0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0, 0.05);
+}
+
 .add-more {
     font-weight: 600;
     columns: #3b82f6;
